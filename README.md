@@ -1,6 +1,6 @@
 # EX-16-LEFT-SHIFT-OPERATION
 ## AIM
-To write a C Program to perform the basic left shift operation for 44 integer number with 3 shifts.
+To write a C Program to perform the basic left shift operation for 44 integer number with 3 shifts
 
 ## ALGORITHM
 1.	Start the program.
